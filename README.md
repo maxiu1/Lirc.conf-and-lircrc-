@@ -11,4 +11,4 @@ IMPORTANT!
 Make sure that dtoverlay and gpio pin_in are correctly setupped in /boot/config.txt!!!
 
 dtoverlay=lirc-rpi,gpio_in_pin=*
-*-your pin nr (BCM)
+   -your pin nr (BCM)
