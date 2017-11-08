@@ -1,5 +1,5 @@
-# Lirc.conf-and-lircrc-
-Configs for Adafruit universal remote and Logitech iPod dockstation with alarm clock (s-00067)
+# Lirc.conf-and-lircrc
+Configs for Adafruit universal remote, Logitech iPod dockstation with alarm clock (s-00067) and Panasonic SA-HT870 home cinema(main crossair,exit-shutdown,cl-random,guide-repeat)
 
 
 Folders needs to be placed in: /data/plugins/system_controller/ir_controller/configurations/
